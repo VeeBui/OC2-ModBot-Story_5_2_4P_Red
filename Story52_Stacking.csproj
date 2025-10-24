@@ -83,6 +83,7 @@
     <Compile Include="StackingPractise.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\Actions.cs" />
+    <Compile Include="Utils\Collections.cs" />
     <Compile Include="Utils\LevelInfo.cs" />
   </ItemGroup>
   <ItemGroup>
