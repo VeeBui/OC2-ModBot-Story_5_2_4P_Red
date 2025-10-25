@@ -1,0 +1,121 @@
+Hello World!
+time: 10/17/2025 4:16:44 PM
+
+Finding meat:...
+
+Found lettuce!
+
+Level Info: 
+- Level Name:	Balloon_5_2_2P
+- Level Time Elapsed:	7.43117
+- Level Points:	100
+
+Recipes: 
+Recipe 0: RecipeList+Entry
+  m_order: BeefBurgerCheese (CompositeOrderNode)
+  m_weight: 1
+  m_scoreForMeal: 60
+Recipe 1: RecipeList+Entry
+  m_order: BeefBurgerMax (CompositeOrderNode)
+  m_weight: 1
+  m_scoreForMeal: 80
+
+ServerPickupItemSpawner: 
+- Name:	DispenserCrate 3 (5)
+- Position:	(14.4, 0.0, 6.0)
+
+- Name:	DispenserCrate 3 (4)
+- Position:	(16.8, 0.0, 6.0)
+
+- Name:	DispenserCrate 3 (3)
+- Position:	(14.4, 0.0, 8.4)
+
+- Name:	DispenserCrate 3 (2)
+- Position:	(16.8, 0.0, 8.4)
+
+- Name:	DispenserCrate 3 (1)
+- Position:	(15.6, 0.0, 10.8)
+
+
+Counters: 
+- Name:	countertop_01_chopping_dark_wood
+- Position:	(21.6, 0.0, 8.4)
+ - Item Name:	Meat
+
+- Name:	countertop_01_standard_dark_wood (16)
+- Position:	(21.6, 0.0, 10.8)
+ - Item Name:	utensil_fire_extinguisher_01
+
+- Name:	countertop_01_standard_dark_wood (25)
+- Position:	(13.2, 0.0, 2.4)
+ - Item Name:	equipment_plate_01 (1)
+
+- Name:	countertop_01_standard_dark_wood (21)
+- Position:	(18.0, 0.0, 2.4)
+ - Item Name:	equipment_plate_01 (3)
+
+- Name:	countertop_01_standard_dark_wood (20)
+- Position:	(20.4, 0.0, 2.4)
+ - Item Name:	equipment_plate_01
+
+- Name:	countertop_01_standard_dark_wood (26)
+- Position:	(10.8, 0.0, 2.4)
+ - Item Name:	equipment_plate_01 (2)
+
+- Name:	countertop_01_standard_dark_wood (8)
+- Position:	(16.8, 0.0, 12.0)
+ - Item Name:	Lettuce
+
+- Name:	workstation_cooker_01 (2)
+- Position:	(21.6, 0.0, 6.0)
+ - Item Name:	utensil_frying_pan_01 (1)
+
+- Name:	workstation_cooker_01 (1)
+- Position:	(18.0, 0.0, 12.0)
+ - Item Name:	utensil_frying_pan_01 (2)
+
+- Name:	workstation_cooker_01
+- Position:	(9.6, 0.0, 8.4)
+ - Item Name:	utensil_frying_pan_01
+
+
+Pans: 
+- Position:			(18.0, 0.6, 12.0)
+- Cooking Progress:	(0)
+
+- Position:			(21.6, 0.6, 6.0)
+- Cooking Progress:	(0)
+
+- Position:			(9.6, 0.6, 8.4)
+- Cooking Progress:	(0)
+
+
+Containers: 
+- Position:	(18.0, 0.5, 2.4)
+- Contents:	
+
+- Position:	(10.8, 0.5, 2.4)
+- Contents:	
+
+- Position:	(13.2, 0.5, 2.4)
+- Contents:	
+
+- Position:	(20.4, 0.5, 2.4)
+- Contents:	
+
+- Position:	(18.0, 0.6, 12.0)
+- Contents:	
+
+- Position:	(21.6, 0.6, 6.0)
+- Contents:	
+
+- Position:	(9.6, 0.6, 8.4)
+- Contents:	
+
+
+Throwable Ingredients: 
+- Name:	Meat
+- Position:	(21.6, 0.5, 8.4)
+- Name:	Lettuce
+- Position:	(16.8, 0.5, 12.0)
+
